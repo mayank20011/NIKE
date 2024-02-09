@@ -456,6 +456,10 @@ a.small {
     {
         width:65%;
     }
+    .navbar, .navcolumnheadings, .navcolumn-links 
+    {
+        padding-bottom:50px;
+    }
 }
 @media(max-width:360px)
 {
