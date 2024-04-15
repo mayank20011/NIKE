@@ -121,3 +121,4 @@ navbarcross.addEventListener("click", () => {
     body.style.overflowY = "scroll";
     body.style.overflowX = "hidden";
 })
+console.log("hello");
